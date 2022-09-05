@@ -1,1 +1,1 @@
-script displays the third line of the file
+script that creates a file with a text in it
