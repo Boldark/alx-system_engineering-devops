@@ -1,1 +1,1 @@
-The script prints Hello, world in a new line
+the scrips prints a confused smiley face
