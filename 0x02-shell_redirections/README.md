@@ -1,1 +1,1 @@
-script that duplicates the last line of a file
+script that deletes all file ending with .js
